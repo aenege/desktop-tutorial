@@ -10,6 +10,11 @@
 
 5. [Formación y Orientación Laboral](#formación-y-orientación-laboral)
 
+# Programación
+# Bases de Datos
+# Lenguaje de Marcas
+# Entornos de Desarrollo
+# Formación y Orientación Laboral
 ---
 
 1. Programación
