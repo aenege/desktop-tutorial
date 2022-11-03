@@ -1,14 +1,14 @@
 # **Índice**
 
-1. [Programación](#id1)
+1. [Programación](#programación)
 
-2. [Bases de Datos](#id2)
+2. [Bases de Datos](#bases-de-datos)
 
-3. [Lenguaje de Marcas](#id3)
+3. [Lenguaje de Marcas](#lenguaje-de-marcas)
 
-4. [Entornos de Desarrollo](#id4)
+4. [Entornos de Desarrollo](#entornos-de-desarrollo)
 
-5. [Formación y Orientación Laboral](#id5)
+5. [Formación y Orientación Laboral](#formación-y-orientación-laboral)
 
 ---
 
