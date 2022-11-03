@@ -10,13 +10,15 @@
 
 5. [Formación y Orientación Laboral](#id5)
 
-
+---
 
 1. Programación
 2. Bases de Datos
 3. Lenguaje de Marcas
 4. Entornos de Desarrollo
 5. Formación y Orientación Laboral
+
+---
 
 - Programación
 * Bases de Datos
@@ -36,16 +38,26 @@ public class HolaMundo {
 }
 '
 
+---
+
 *Esto es un texto en cursiva*
 **Esto es un texto en negrita**
 ***Esto es un texto en negrita y cursiva***
 
+---
+
 [Este enlace te lleva a Youtube](https://https://youtube.com/)
+
+---
 
 ![Monkey D. Luffy](https://i.pinimg.com/1200x/43/e7/12/43e7126dc55c55efbe6c04ef4b5b55a4.jpg "Monkey D. Luffy")
 
+---
+
 | Primera columna | Segunda columna | Tercera columna |
 | -- | -- | -- |
+
+---
 
 ### Exploración del Sistema Solar, 1950s – 1960s
 
