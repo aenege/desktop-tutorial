@@ -46,7 +46,7 @@ public class HolaMundo {
 
 ---
 
-[Este enlace te lleva a Youtube](https://https://youtube.com/)
+[Este enlace te lleva a Youtube](https://youtube.com/)
 
 ---
 
