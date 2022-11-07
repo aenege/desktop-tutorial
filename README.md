@@ -59,8 +59,9 @@ public class HolaMundo {
 
 ---
 
-| Primera columna | Segunda columna | Tercera columna |
+| Alumno | Curso | Grupo |
 | -- | -- | -- |
+| Alejandro Nieto | DAM | 1º |
 
 ---
 
